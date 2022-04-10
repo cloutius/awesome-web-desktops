@@ -18,6 +18,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ash.ms) Ash Kyd](https://ash.ms) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/AshKyd/ui95) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) Cyberspace & Time](http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://wwwtxt.org/about) WWWTXT](https://wwwtxt.org/about) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://95windo.ws) 95windo.ws](http://95windo.ws/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/cloutius/95windo.ws) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.windows93.net) Windows 93](https://www.windows93.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.expensive.toys) Artur Bień](https://www.expensive.toys) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/arturbien/React95) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.therestartpage.com) The Restart Page](http://www.therestartpage.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
